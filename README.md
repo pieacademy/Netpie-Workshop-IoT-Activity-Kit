@@ -1,7 +1,7 @@
 # Netpie-Workshop-IoT-Activity-Kit (INEX-Kit)
 
 ### การเตรียมเครื่องคอมพิวเตอร์สำหรับการทำ workshop
-https://docs.google.com/document/d/1z6CvZVwrr_Xkjn6EnHwPi074Fd7RZisp7_4SoDzH9c4
+https://docs.google.com/document/d/18sl_gNW6BTka05N0jbM5RF0AZ8szQOTCbwjONIKRleE
 
 ## Presentations
 
@@ -15,17 +15,17 @@ https://drive.google.com/file/d/0BxilWPgyXTmvNDMtVVFZRHpqUzA
 https://docs.google.com/presentation/d/1px9VvVP4regFJ264LvHNguJl0TpwhzH0421A_AR8eF8
 
 ### Part 2: Introduction to NETPIE
-https://docs.google.com/presentation/d/14eYYBt9s2QBeLMdg5VSiv1356H3mm6pwjA04MNW-1BU
+https://docs.google.com/presentation/d/1oNTme8XkdcZzAgzcQDcB3FsyUo2O6gx7jh6XG2xnwo0
 
 ### Part 3: IOT Development with NETPIE
-https://docs.google.com/presentation/d/1GvWavSb7WFL74hG_ve3JivCcnKsN-7BlCbOfyfcSLNI
+https://docs.google.com/presentation/d/15yXmv8DV-E_sdBwWOUQrIzWPLyzWe-Kb4aaTcmMUSHQ
 
 ### Part 4: Feed
-https://docs.google.com/presentation/d/10vdljLitMlKAKRq1f9BCskrmM6aLvC6u5T22oqt5bXs
+https://docs.google.com/presentation/d/1VB9ZRTWhY9F0-WWOTFgYuEDnBhsLMP0eFHgRIEvn_oM
 
 ### Part 5: Freeboard
-https://docs.google.com/presentation/d/1E6pbUKtOydo_f5vuc0ilT_KtTnDZLYf03qWI9gcRXvU
+https://docs.google.com/presentation/d/1ZTUULJFbDtrFtEb6HhRnQMDoK-Oztim90lQ7QZTx-Gc
 https://docs.google.com/presentation/d/1e0tZOt_BXqjBLPSP87fFL8xPeQlpD5Zeb4Qr2ksA7wk
 
 ### Part 6: Conclusion
-https://docs.google.com/presentation/d/1cu8A9r0jhbXAYx1GeWfulmDY8AReshL_WLg0g4-wHQM
+https://docs.google.com/presentation/d/1BX-pk7GQaViUM_5WQR1PiuW_5oWW6htMYZ3VBtQ9-uA
