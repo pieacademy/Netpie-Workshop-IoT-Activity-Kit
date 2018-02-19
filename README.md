@@ -3,7 +3,7 @@
 ### การเตรียมเครื่องคอมพิวเตอร์สำหรับการทำ workshop
 https://docs.google.com/document/d/18sl_gNW6BTka05N0jbM5RF0AZ8szQOTCbwjONIKRleE
 
-### ชุดอุปกรณ์ที่ใช้ : IoT Activity Kit
+### ชุดอุปกรณ์ที่ใช้: IoT Activity Kit (มีให้ฟรีสำหรับผู้ได้เข้าร่วมอบรม)
 https://inex.co.th/shop/iot-lab-book.html
 
 ## Presentations
