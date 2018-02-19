@@ -1,14 +1,12 @@
-int pinTone = D8;
+int buzzerPin = D8;
 
 void setup() {
-  analogWrite(pinTone, 255);
-  delay(1000);
+  pinMode(buzzerPin, OUTPUT);
 }
 
 void loop() {
-  analogWriteFreq(440);
+  tone(buzzerPin, 440);
   delay(500);
-  analogWriteFreq(587);
+  tone(buzzerPin, 587);
   delay(500);
 }
-
