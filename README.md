@@ -9,7 +9,7 @@ https://inex.co.th/shop/iot-lab-book.html
 ## Presentations
 
 ### Introduction to Internet of Things
-https://drive.google.com/file/d/0BxilWPgyXTmvNldoMm9reUJaQ3M
+https://docs.google.com/presentation/d/1yEi9o-UA3eBvVi191tfzo_3xtn4Ojy7Y_8mID71PS78
 
 ### Introduction to Network Protocols
 https://drive.google.com/file/d/0BxilWPgyXTmvNDMtVVFZRHpqUzA
