@@ -1,6 +1,6 @@
 #include <ESP8266WiFi.h>
 
-const char* ssid     = "netpie1";
+const char* ssid     = "@netpie1";
 const char* password = "netpie1234";
 
 void setup() {

@@ -2,7 +2,6 @@
 #include <Wire.h>
 #include <Adafruit_GFX.h>
 #include <Adafruit_SSD1306.h>
-#include <WiFiManager.h>
 
 #define OLED_RESET -1
 Adafruit_SSD1306 OLED(OLED_RESET);

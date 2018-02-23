@@ -2,7 +2,7 @@
 #include <DNSServer.h>
 #include <ESP8266WebServer.h>
 #include <WiFiManager.h>
-#define ACCESSPOINT_NAME  "MyAccesspoint"
+#define ACCESSPOINT_NAME  "MyAccesspoint" // แก้ให้เป็นชื่อ Wifi ที่ท่านต้องการ
 
 WiFiManager wifiManager;
 int LEDPIN = D0;

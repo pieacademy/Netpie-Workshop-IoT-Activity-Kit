@@ -1,4 +1,4 @@
-#define SWPIN D3
+#define SWPIN D5
 #define LEDPIN LED_BUILTIN
 int buttonState = 0;
 int ledState = 0;
