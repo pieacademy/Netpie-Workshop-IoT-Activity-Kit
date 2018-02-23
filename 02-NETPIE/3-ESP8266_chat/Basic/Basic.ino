@@ -1,6 +1,3 @@
-/*  NETPIE ESP8266 basic sample                            */
-/*  More information visit : https://netpie.io             */
-
 #include <ESP8266WiFi.h>
 #include <MicroGear.h>
 

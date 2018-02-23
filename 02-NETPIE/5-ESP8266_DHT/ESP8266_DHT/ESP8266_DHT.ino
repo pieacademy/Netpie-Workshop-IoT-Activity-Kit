@@ -17,7 +17,7 @@ const char* password = "YOUR_WIFI_PASSWORD";  // รหัสผ่าน wifi
 #define LEDSTATETOPIC "/ledstate/" ALIAS      // topic ที่ต้องการ publish ส่งสถานะ led ในที่นี้จะเป็น /ledstate/{ชื่อ alias ตัวเอง}
 #define DHTDATATOPIC "/dht/" ALIAS            // topic ที่ต้องการ publish ส่งข้อมูล dht ในที่นี่จะเป็น /dht/{ชื่อ alias ตัวเอง}
 
-#define BUTTONPIN  D3                         // pin ที่ต่อกับปุ่ม Flash บนบอร์ด NodeMCU
+#define BUTTONPIN  D5                         // pin ที่ต่อกับปุ่ม Flash บนบอร์ด NodeMCU
 #define LEDPIN     LED_BUILTIN                // pin ที่ต่อกับไฟ LED บนบอร์ด NodeMCU
 
 int currentLEDState = 0;      // ให้เริ่มต้นเป็น OFF

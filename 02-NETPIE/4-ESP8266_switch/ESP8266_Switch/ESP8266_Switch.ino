@@ -13,7 +13,7 @@ const char* password = "YOUR_WIFI_PASSWORD";  // รหัสผ่าน wifi
 #define NEIGHBOR "NEIGHBOR_ALIAS"             // ชื่ออุปกรณ์ของเพื่อน เช่น "A02"
 // --------------------------------------------------------------------------------------
 
-#define BUTTONPIN  D3                         // pin ที่ต่อกับปุ่ม Flash บนบอร์ด NodeMCU
+#define BUTTONPIN  D5                         // pin ที่ต่อกับปุ่ม Flash บนบอร์ด NodeMCU
 #define LEDPIN     LED_BUILTIN                // pin ที่ต่อกับไฟ LED บนบอร์ด NodeMCU
 
 int currentLEDState = 1;      // ให้เริ่มต้นเป็น OFF หมายเหตุ ไฟ LED บนบอร์ดต่อแบบ active-low
